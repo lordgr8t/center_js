@@ -4,6 +4,6 @@
 
 ##### Структура html
 
-```<div id="center-wrapper">
-``````<div id="center-heigh"></div>
-```</div>
+``` <div id="center-wrapper">
+      <div id="center-heigh"></div>
+    </div>
