@@ -3,7 +3,8 @@
 Центрировать можно только inline блоки или блоки с фиксированной высотой и шириной.
 
 ##### Структура html
-
-``` <div id="center-wrapper">
-      <div id="center-heigh"></div>
-    </div>
+``` 
+      <div id="center-wrapper">
+            <div id="center-heigh"></div>
+      </div>
+``` 
