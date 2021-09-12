@@ -1,5 +1,5 @@
-$(document).ready(function() {
-	$('#center-wrapper').css({'paddingTop' : '0.1px'});	
+$(document).ready(function() {	
+	$('*#center-wrapper').css({'paddingTop' : '0.1px'});	
 	let	wrapWidth = $('#center-wrapper').width();
 	let	wrapHeight = $('#center-wrapper').height();
 	let contentWidthL = $('#center-width').width();
